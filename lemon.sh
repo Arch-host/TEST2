@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Lemon Lemon Lemon LEMON Lemon Lemon Lemon Lemon Lemon Lemon LEMON  Lemon Lemon Lemon LEMON"
+echo "Lemon Lemon Lemon $PWD  Lemon Lemon Lemon Lemon Lemon Lemon LEMON  $USER Lemon Lemon LEMON"
